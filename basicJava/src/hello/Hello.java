@@ -11,5 +11,8 @@ public class Hello {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World"); // 콘솔에 문자를 찍어주기
+		System.out.println("Hello World"); // 콘솔에 문자를 찍어주기
+		System.out.println("Hello World"); // 콘솔에 문자를 찍어주기
+		System.out.println("Hello World"); // 콘솔에 문자를 찍어주기
 	}
 }
